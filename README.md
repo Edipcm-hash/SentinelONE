@@ -410,22 +410,6 @@ KDF time is a **one-time cost per file**; per-chunk AES-GCM throughput is CPU-bo
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome—especially security reviews, fuzzing harnesses, and cross-platform test reports.
-
-```bash
-# Fork, then:
-git checkout -b feature/your-feature
-git commit -m "Add: your change"
-git push origin feature/your-feature
-# Open a Pull Request
-```
-
-Please **do not** open public issues for security vulnerabilities. Report them privately to `security@yourdomain.example` with a PGP-encrypted message if possible.
-
----
-
 <p align="center">
   <i>Built with paranoia, hardened with cryptography.</i><br>
   <b>🛡️ SentinelONE — because your data deserves a fortress. 🛡️</b>
